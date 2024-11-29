@@ -1,0 +1,181 @@
+{
+  "lista8d": [
+    {
+      "id": "03e2",
+      "numero8D": "62346",
+      "responsavel": {
+        "nome": "Sem responsável"
+      },
+      "cliente": {
+        "nome": "TENNECO"
+      },
+      "dataCriacao": "28/11/2024"
+    },
+    {
+      "id": "8b67",
+      "numero8D": "1111",
+      "responsavel": {
+        "id": "e001",
+        "nome": "Giovani Gonzales"
+      },
+      "cliente": {
+        "id": "34",
+        "nome": "STELLANTIS"
+      },
+      "dataCriacao": "28/11/2024"
+    }
+  ],
+  "clientes": [
+    {
+      "id": "61",
+      "nome": "Sriko"
+    },
+    {
+      "id": "62",
+      "nome": "Nissan"
+    },
+    {
+      "id": "04",
+      "nome": "Fiat"
+    },
+    {
+      "id": "08",
+      "nome": "GM"
+    },
+    {
+      "id": "015",
+      "nome": "Flexfab"
+    },
+    {
+      "id": "73",
+      "nome": "Hyundai"
+    },
+    {
+      "id": "86",
+      "nome": "IPA"
+    },
+    {
+      "id": "37",
+      "nome": "IVECO"
+    },
+    {
+      "id": "23",
+      "nome": "MAN"
+    },
+    {
+      "id": "56",
+      "nome": "maradei"
+    },
+    {
+      "id": "32",
+      "nome": "Mercedes"
+    },
+    {
+      "id": "75",
+      "nome": "Mitsubishi"
+    },
+    {
+      "id": "14",
+      "nome": "Peugeout"
+    },
+    {
+      "id": "16",
+      "nome": "Renault"
+    },
+    {
+      "id": "18",
+      "nome": "SCANIA"
+    },
+    {
+      "id": "34",
+      "nome": "STELLANTIS"
+    },
+    {
+      "id": "41",
+      "nome": "TENNECO"
+    },
+    {
+      "id": "92",
+      "nome": "VALEO"
+    },
+    {
+      "id": "22",
+      "nome": "VW"
+    },
+    {
+      "id": "36",
+      "nome": "VOSS"
+    },
+    {
+      "id": "91",
+      "nome": "MGI"
+    },
+    {
+      "id": "57",
+      "nome": "MAHLE"
+    },
+    {
+      "id": "112",
+      "nome": "Paranoa"
+    }
+  ],
+  "responsavel": [
+    {
+      "id": "e001",
+      "nome": "Giovani Gonzales"
+    },
+    {
+      "id": "e002",
+      "nome": "Brenda Alves"
+    },
+    {
+      "id": "e003",
+      "nome": "Alyne Viana"
+    },
+    {
+      "id": "e004",
+      "nome": "Tayla Vitória"
+    },
+    {
+      "id": "e005",
+      "nome": "Fábio Medina"
+    }
+  ],
+  "accounts": [
+    {
+      "email": "admin",
+      "password": "admin",
+      "department": "controladoria",
+      "company": "Paranoa",
+      "id": "4a92"
+    },
+    {
+      "email": "garaujo@paranoa.com.br",
+      "password": "12345",
+      "department": "ic",
+      "company": "paranoa",
+      "id": "743b"
+    },
+    {
+      "id": "g7mjce",
+      "email": "testestestesteste234131231@testestesteste",
+      "password": "joaozinhno",
+      "department": "Portaria",
+      "company": "Paranoa"
+    },
+    {
+      "id": "rf495",
+      "email": "123@123",
+      "password": "123",
+      "department": "123",
+      "company": "TENNECO"
+    },
+    {
+      "id": "u4wto",
+      "email": "stelantis@gmail.com",
+      "password": "123",
+      "department": "RH",
+      "company": "STELLANTIS"
+    }
+  ]
+}
